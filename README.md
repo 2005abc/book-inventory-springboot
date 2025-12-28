@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Book Inventory System</title>
-</head>
-<body>
-
 <h1>📚 Book Inventory System</h1>
 
 <p>
@@ -81,11 +73,14 @@ server.port=8080
 
 <h2>📸 Application Screenshot</h2>
 
-<p><em>(Add screenshot image here)</em></p>
 <img src="<img width="1000" height="500" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/67d37f63-bc33-4c17-9bd4-00e1cc470e9b" />
-" alt="Book Inventory System Screenshot">
 <img src="<img width="1000" height="500" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/62baf85e-2e8e-4b7c-b580-ba0bf326bf27" />
-" alt="Book Inventory System Screenshot">
 
-</body>
-</html>
+
+<img
+    src="https://github.com/user-attachments/assets/f36afeff-ebb2-4872-b264-797e63ade9c7"
+    alt="Vehicle Price Predictor UI"
+    width="1000"
+/>
+
+
